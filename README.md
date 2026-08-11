@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### O que o JavaScript pode fazer? | JavaScript JavaScript Variáveis Declarando com const
+### O que o JavaScript pode fazer? | JavaScript Variáveis Declarando com const
 
 <a href="https://github.com/user-attachments/assets/8d1a3685-a311-4c29-a7c3-716e17104711">
   <img width="100%" alt="javascript-variaveis" src="https://github.com/user-attachments/assets/8d1a3685-a311-4c29-a7c3-716e17104711"/>
